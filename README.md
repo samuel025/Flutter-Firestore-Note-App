@@ -1,3 +1,5 @@
 # flutter_firestore
 
-A new Flutter project.
+A simple and easy flutter project.
+
+A notes app using firestore database.
